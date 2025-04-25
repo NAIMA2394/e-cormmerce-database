@@ -1,4 +1,5 @@
 🛒 E-commerce Database Project
+
 This project is a complete relational database design for an E-commerce Platform. It includes an ERD and SQL scripts to create and populate the database, covering core functionalities needed to manage products, categories, variations, attributes, and inventory.
 
 📂 Project Contents
